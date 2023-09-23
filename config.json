@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "© 2023 DigitMe Studio | Author: <a href=\"https://www.linkedin.com/in/xuxiaoran/\">Xiaoran Xu</a>",
+  "footer": "© 2023 DigitMe Studio | Author: <a href='https://www.linkedin.com/in/xuxiaoran/\'>Xiaoran Xu</a>",
   "usage-stats": false
 }
